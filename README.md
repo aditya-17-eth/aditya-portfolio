@@ -37,7 +37,7 @@ The portrait collage is a transparent PNG served through `next/image`.
 
 An ink illustration, oversized condensed headings, a gray editorial canvas,
 black framing, and red accents define the visual system. The homepage draws on
-Aditya's interests in travel, running, photography, German, and Formula 1.
+Aditya's interests in travel, running, photography, and Formula 1.
 The custom portrait illustration is in `public/images/aditya-collage.png`.
 The art direction takes inspiration from [Huy Phan's portfolio](https://huyml.co/).
 The implementation, diagrams, and personalized composition were made for this site.

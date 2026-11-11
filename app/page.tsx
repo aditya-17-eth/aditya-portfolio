@@ -20,7 +20,7 @@ export default function Home() {
           <figure className="portrait-collage">
             <Image
               src="/images/aditya-collage.png"
-              alt="An ink cartoon of Aditya with swept hair, sunglasses, and a moustache, surrounded by a camera, running shoe, racing helmet, German notebook, travel and coding objects."
+              alt="An ink cartoon of Aditya with swept hair, sunglasses, and a moustache, surrounded by a camera, running shoe, racing helmet, travel and coding objects."
               width={1024}
               height={1536}
               sizes="(max-width: 760px) 88vw, 42vw"
@@ -29,7 +29,7 @@ export default function Home() {
             <figcaption>A few things on my mind.</figcaption>
           </figure>
           <div className="hero-manifesto">
-            <p>Blockchain builder.<br />Red Bull on race day.<br />German language enthusiast.<br />Runner. Roamer. Photographer.<br />A polymath in the making.</p>
+            <p>Blockchain builder.<br />Red Bull on race day.<br />Runner. Roamer. Photographer.<br />A polymath in the making.</p>
             <a className="small-link" href="#about">Meet the human <Arrow diagonal /></a>
           </div>
           <div className="hero-index">
@@ -80,12 +80,11 @@ export default function Home() {
           <div className="about-copy">
             <p className="about-lead">I like the idea of being a polymath. One discipline has never felt like the whole picture.</p>
             <p>I&apos;m {profile.name}, a blockchain developer and software engineer with an interest in AI, machine learning, and emerging technology.</p>
-            <p>Away from the keyboard, that curiosity takes me into travel, running, photography, and the German language. On a Formula 1 weekend, I&apos;m cheering for Red Bull and Max Verstappen.</p>
+            <p>Away from the keyboard, that curiosity takes me into travel, running, and photography. On a Formula 1 weekend, I&apos;m cheering for Red Bull and Max Verstappen.</p>
             <ul className="personal-index" aria-label="Interests beyond coding">
               <li><span>Off the beaten path</span><span>Travel</span></li>
               <li><span>Through another lens</span><span>Photography</span></li>
               <li><span>One more kilometer</span><span>Running</span></li>
-              <li><span>Immer neugierig</span><span>German</span></li>
               <li><span>Lights out</span><span>F1 / Verstappen</span></li>
             </ul>
             <div className="community-note"><span className="mono">Building with the community</span><p>Building Orakel through the <a href="https://x.com/Adity0ux/status/2073333076571439531" target="_blank" rel="noopener noreferrer">21-Day Stellar Build Station Pune</a>, and sharing the energy of a <a href="https://x.com/Adity0ux/status/2111840837084852355" target="_blank" rel="noopener noreferrer">builder event with ETHPune</a>. I share the work and the journey as they happen.</p></div>
